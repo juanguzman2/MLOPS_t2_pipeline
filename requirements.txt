@@ -1,0 +1,12 @@
+hydra-core>=1.1.1
+cookiecutter>=2.1.1
+pandas>=1.3.0,<2.0.0    # Compatible con scikit-learn 1.0.2 y numpy
+numpy>=1.19.5,<1.23.0   # Compatible con scikit-learn 1.0.2 y pycaret 3.0.0
+matplotlib>=3.4.0,<4.0.0
+seaborn>=0.11.0,<0.12.0 # Compatible con pandas y matplotlib
+joblib>=1.2.0
+scipy>=1.6.0,<1.8.0     # Compatible con numpy y scikit-learn 1.0.2
+pycaret==3.0.0          # Compatible con scikit-learn 1.0.2
+fastapi>=0.70.0,<0.90.0 # Mantener dentro de las versiones estables conocidas
+# uvicorn>=0.15.0,<0.20.0
+scikit-learn==1.0.2     # Fijada para asegurar compatibilidad con pycaret
