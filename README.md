@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # riesgo_diabetes
 
 ## Tools used in this project
@@ -116,3 +117,6 @@ To auto-generate API document for your project, run:
 ```bash
 make docs
 ```
+=======
+# MLOPS_t2_pipeline
+>>>>>>> 653b4b73514dbfbcb880e4953ef220d001d81e6b
